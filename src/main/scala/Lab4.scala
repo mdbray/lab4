@@ -3,10 +3,9 @@ import jsy.lab4.ast._
 import jsy.lab4.Parser
 /*
 * CSCI 3155: Lab 4
-* Jonathan Huang
-*
-* Partner: Phu Dang
-* Collaborators:
+* Name: Michelle Bray
+* Partner: Ali Hakimi
+* Collaborators: Jon Huang
 */
 /*
 * Fill in the appropriate portions above by replacing things delimited
